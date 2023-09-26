@@ -34,7 +34,7 @@ To get new video file with visualization of emotions- and phrases predictions, y
 
 If you are using EMO-AVSR in your research, please consider to cite researches. Here is the examples of BibTeX entry:
 
-<div class="highlight highlight-text-bibtex notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">@inproceedings</span>{<span class="pl-en">IVANKO2023ICASSP</span>,
+<div class="highlight highlight-text-bibtex notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">@inproceedings</span>{<span class="pl-en">IVANKO2023SPECOM</span>,
   <span class="pl-s">title</span>         = <span class="pl-s"><span class="pl-pds">{</span>EMO-AVSR: Two-Level Approach for Audio-Visual Emotional Speech Recognition<span class="pl-pds">}</span></span>,
   <span class="pl-s">author</span>        = <span class="pl-s"><span class="pl-pds">{</span>Denis Ivanko and Elena Ryumina and Dmitry Ryumin and Alexandr Axyonov and Alexey Kashevnik  and Alexey Karpov<span class="pl-pds">}</span></span>,
   <span class="pl-s">inproceedings</span> = <span class="pl-s"><span class="pl-pds">{</span>25th International Conference on Speech and Computer (SPECOM), Lecture Notes in Computer Science<span class="pl-pds">}</span></span>,
